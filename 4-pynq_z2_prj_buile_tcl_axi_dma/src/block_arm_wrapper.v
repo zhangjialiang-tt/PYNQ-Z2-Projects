@@ -1,7 +1,7 @@
 //Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 //--------------------------------------------------------------------------------
 //Tool Version: Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-//Date        : Sat Sep 14 14:52:30 2019
+//Date        : Sat Sep 14 15:52:57 2019
 //Host        : DESKTOP-3LFD5G4 running 64-bit major release  (build 9200)
 //Command     : generate_target block_arm_wrapper.bd
 //Design      : block_arm_wrapper
