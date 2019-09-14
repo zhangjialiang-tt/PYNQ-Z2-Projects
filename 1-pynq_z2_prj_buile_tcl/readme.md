@@ -1,0 +1,1 @@
+运行`source pynq_base_project.tcl`即可创建基本工程
